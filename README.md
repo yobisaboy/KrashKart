@@ -1,6 +1,14 @@
 # KrashKart
 by Chomper Studios
 
+- **WebGL Version Available: https://bit.ly/krash-kart**
+
+## Contact
+- Tel: +1 (647) 637-0831
+- Email: hoyiuyiuyoyo@gmail.com
+- LinkedIn: https://www.linkedin.com/in/yoyoho
+- GitHub: https://github.com/yobisaboy
+
 ## How to Run
 - Pull everything from this GitHub, after downloading, run `Krash Kart.exe` to start the game.
 
