@@ -1,6 +1,9 @@
 # KrashKart
 by Chomper Studios
 
+## How to Run
+- Pull everything from this GitHub, after downloading, run `Krash Kart.exe` to start the game.
+
 ## Gameplay
 - **Player 1 Controls**: Controls the left-hand side car using `WASD` for movement and `Left Shift` for power-up.
 - **Player 2 Controls**: Controls the right-hand side car using `Arrow Keys` for movement and `Right Shift` for power-up.
