@@ -1,7 +1,7 @@
 # KrashKart
 by Chomper Studios
 - Unity Project: https://github.com/yoyohohoh/COMP396_FinalProject
-- WebGL Version Available: https://bit.ly/krash-kart
+- WebGL Version Available: https://yobisaboy.itch.io/krash-kart?secret=QP2pHTw5cDFrFYwC5S0T3hw3pY
 
 ## Contact
 - Tel: +1 (647) 637-0831
