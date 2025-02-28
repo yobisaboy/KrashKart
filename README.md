@@ -10,7 +10,7 @@ by Chomper Studios
 - GitHub: https://github.com/yobisaboy
 
 ## How to Run
-- Pull everything from this GitHub, after downloading, run `Krash Kart.exe` to start the game.
+- Pull everything from this GitHub, after downloading, run `KrashKart.exe` to start the game.
 
 ## Gameplay
 - **Player 1 Controls**: Controls the left-hand side car using `WASD` for movement and `Left Shift` for power-up.
