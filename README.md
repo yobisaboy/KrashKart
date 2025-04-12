@@ -32,7 +32,7 @@
 - **Main Menu**: Go back to the main menu
 <img src="./Images/options.png" width="533">
 
-## Game Scene Scene
+## Game Scene
 - **Name**: Display players’ name
 - **Life**: Players’ remaining life (Increases when taking reward items; decreases when getting attacked)
 - **Power-up Showbox**: Displays a grey icon when a power-up is picked up, highlights it during use, and removes it after use
