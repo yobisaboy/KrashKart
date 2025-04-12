@@ -1,4 +1,5 @@
 # KrashKart
+<img src="https://github.com/yobisaboy/Resume/blob/main/yobisaboyLogo.png" alt="yobisaboy Logo" height="90">
 <img src="https://github.com/yobisaboy/Resume/blob/main/ChomperStudiosLogo.png" alt="chomper Logo" height="90">
 
 ## Gameplay
