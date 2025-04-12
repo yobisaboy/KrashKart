@@ -1,6 +1,5 @@
 # KrashKart
-<img src="https://github.com/yobisaboy/Resume/blob/main/yobisaboyLogo.png" alt="yobisaboy Logo" height="90">
-<img src="https://github.com/yobisaboy/Resume/blob/main/ChomperStudiosLogo.png" alt="chomper Logo" height="90">
+<img src="https://github.com/yobisaboy/Resume/blob/main/yobisaboyLogo.png" alt="yobisaboy Logo" height="90"><img src="https://github.com/yobisaboy/Resume/blob/main/ChomperStudiosLogo.png" alt="chomper Logo" height="90">
 
 ## Gameplay
 - **Player 1 Controls**: Controls the left-hand side car using `WASD` for movement and `Left Shift` for power-up.
