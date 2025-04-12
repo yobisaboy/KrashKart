@@ -54,9 +54,9 @@
 
 ## Build & Source Code
 - Demonstration Video: https://youtu.be/eu1CTlrcLD0
-- WebGL Version Available (PC): https://yobisaboy.itch.io/harmony-heroes
-- Game Download: https://github.com/yobisaboy/HarmonyHeros
-- Unity Project: https://github.com/CR3XX12/COMP390_001_HarmonyHero
+- WebGL Version Available (PC): https://yobisaboy.itch.io/krash-kart
+- Game Download: https://github.com/yobisaboy/KrashKart
+- Unity Project: https://github.com/yoyohohoh/COMP396_FinalProject
 
 ## Contact
 - Tel: +1 (647) 637-0831
